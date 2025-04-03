@@ -1,0 +1,6 @@
+pypdf
+PyPDF2
+langchain-core
+langchain-openai
+langchain
+langchain-community
