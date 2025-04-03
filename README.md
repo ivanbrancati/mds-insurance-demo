@@ -39,7 +39,7 @@ You can define the key directly in your notebook:
 # Load OpenAI API key
 # Instructions: https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key
 open_api_key = "Insert you OpenAI API key here"
-os.environ["OPENAI_API_KEY"]=open_api_key
+os.environ["OPENAI_API_KEY"] = open_api_key
 ```
 
 ---
