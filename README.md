@@ -25,6 +25,9 @@ cd mds-insurance-demo
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run notebook
+jupyter notebook technical-demo.ipynb
 ```
 
 ---
