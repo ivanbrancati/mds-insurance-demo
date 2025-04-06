@@ -23,15 +23,19 @@ To run the notebook locally:
 git clone https://github.com/ivanbrancati/mds-insurance-demo.git
 cd mds-insurance-demo
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run notebook
 jupyter notebook technical-demo.ipynb
 ```
 
 ---
+## 🔗 Dependencies
 
+You need to install some dependencies to use all the needed libraries. You can install them directly from the notebook:
+
+```python
+# Install dependencies
+%pip install -r requirements.txt
+```
 ## 🔑 Configuration
 
 You need an OpenAI API Key to run the summarization.
