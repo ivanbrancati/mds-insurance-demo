@@ -65,7 +65,7 @@ os.environ["OPENAI_API_KEY"] = open_api_key
 ## 📚 References
 
 This demo is part of a post on Data Reply DataTech Blog:
-📄 [Blog post](https://medium.com/data-reply-it-datatech) 
+📄 [Blog post]([https://medium.com/data-reply-it-datatech](https://medium.com/data-reply-it-datatech/genai-for-insurance-multi-document-summarization-of-insurance-products-fc77878fc222)) 
 
 
 
